@@ -1,0 +1,40 @@
+JavaScript on APEX
+Functions return value
+Procedures return nothing. 
+
+JQUERY is used to 
+
+1.find and extract elements
+
+2. MANIPULATIONS
+Add remove classes
+Modify atttributes 
+insertion 
+removal
+css change. 
+
+
+
+ 
+
+APEX generates the JavaScript and adds it to the page
+
+Dynamic Actions
+	Actions	aka Event
+		Conditions
+		
+JQUERY - simple API's that worked everywhere because the source could fit in a single localized file.
+Granting you the power of the dollar sign $ 
+
+youmightnotneedjquery.com
+
+APEX jQuery is added to the globalscope of apex by default so you're ready to go. 
+
+ID Selectotr $(#'message')
+Class Selector $('.boring')
+Element Selector $('ul')
+multiple seletor $('.fun,#message') You can do multiple of the above at once
+
+They are chainable
+
+
